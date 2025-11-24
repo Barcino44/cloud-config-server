@@ -27,5 +27,3 @@ logging:
             rest: INFO
             jpa: INFO
             orm: INFO
-
-prueba-remota-unica: 'SOLO_EXISTE_EN_GITHUB'
